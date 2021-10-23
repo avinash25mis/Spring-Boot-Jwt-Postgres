@@ -1,1 +1,1 @@
-# A framework with Spring-boot integrated with Postgres Database and Spring security using JWT, this applicatiion has  authentication using jwt token, Global Exception Handeling , Generic Respository  for all entities
+# A framework with Spring-boot integrated with Postgres Database and Spring security using JWT,  authentication using jwt token, Global Exception Handeling , Generic JPA Respository
